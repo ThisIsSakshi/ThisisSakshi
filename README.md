@@ -1,11 +1,13 @@
 
 <p align="center">
   <samp>
-    Hi there <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> thanks for stopping by, this is <b>Sakshi Sharma</b> back-end python developer from India.
+    Hi there <img src="Hi.gif" width="20px"> thanks for stopping by, this is <b>Sakshi Sharma</b> back-end python developer from India.
   </samp>
 </p>
 
-<img align="right" width="375" alt="GIF" href="https://editor.p5js.org/whitehatjr/present/ePJrHCACM" height="200" width="300" />
+<img align="right" alt="Pacman GIF" src="pacman.gif" height="200" width="300" />
+
+###Let's connect:
 
 
 <!--
