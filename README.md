@@ -8,7 +8,7 @@
 <img align="right" alt="Pacman GIF" src="pacman.gif" height="200" width="300" />
 
 ### Let's connect:
-
+[<img align="left" alt="Linkedin" width="24px" src="linkedin.svg" />](https://www.linkedin.com/in/i-am-sakshi-sharma/)
 
 <!--
 **ThisIsSakshi/ThisisSakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
