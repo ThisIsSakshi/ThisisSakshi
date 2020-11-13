@@ -5,7 +5,7 @@
   </samp>
 </p>
 
-<img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" href="https://editor.p5js.org/whitehatjr/present/ePJrHCACM" height="200" width="300" />
+<img align="right" width="375" alt="GIF" href="https://editor.p5js.org/whitehatjr/present/ePJrHCACM" height="200" width="300" />
 
 <!--
 **ThisIsSakshi/ThisisSakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
