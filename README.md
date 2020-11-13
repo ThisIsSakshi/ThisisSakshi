@@ -5,7 +5,7 @@
   </samp>
 </p>
 
-<img align="right" alt="Pacman GIF" src="pacman.gif" height="200" width="300" />
+<img align="left" alt="Pacman GIF" src="pacman.gif" height="200" width="300" />
 
 ### Let's connect:
 [<img align="left" alt="Linkedin" width="24px" src="linkedin.svg" />](https://www.linkedin.com/in/i-am-sakshi-sharma/)
