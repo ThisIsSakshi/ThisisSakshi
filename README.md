@@ -7,7 +7,7 @@
 
 <img align="right" alt="Pacman GIF" src="pacman.gif" height="200" width="300" />
 
-###Let's connect:
+### Let's connect:
 
 
 <!--
