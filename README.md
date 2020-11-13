@@ -6,7 +6,7 @@
 </p>
 
 <img align="right" width="375" alt="GIF" href="https://editor.p5js.org/whitehatjr/present/ePJrHCACM" height="200" width="300" />
-![GitHub stats](https://editor.p5js.org/whitehatjr/present/ePJrHCACM)
+
 
 <!--
 **ThisIsSakshi/ThisisSakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
