@@ -1,8 +1,7 @@
 
 <p align="center">
   <samp>
-    ### Hi there <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">
-    thanks for stopping by, this is Sakshi Sharma back-end python developer.
+    Hi there <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> thanks for stopping by, this is <b>Sakshi Sharma</b> back-end python developer from India.
   </samp>
 </p>
 
