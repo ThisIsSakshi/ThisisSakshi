@@ -8,17 +8,9 @@
 <img align="right" alt="Pacman GIF" src="pacman.gif" height="200" width="300" />
 
 ### Let's connect:
-<table>
-  <tbody>
-    <tr>
 [<img align="left" alt="Linkedin" width="24px" src="linkedin.svg" />](https://www.linkedin.com/in/i-am-sakshi-sharma/)
 [<img align="left" alt="Facebook" width="24px" src="fb.svg" />](https://www.facebook.com/This.is.Sakshi)
 [<img align="left" alt="Instagram" width="24px" src="insta.svg" />](https://www.instagram.com/_this_is_sakshi_/)
-</tr>
-    <tr>
 [<img align="left" alt="Skype" width="24px" src="skype.svg" />](https://join.skype.com/invite/a2uM8XJDIMeB)
 [<img align="left" alt="Telegram" width="24px" src="telegram.svg" />](https://web.telegram.org/#/im?p=@ThisIsSakshi)
 [<img align="left" alt="Gmail" width="24px" src="gmail.svg" />](mailto:thisissakshisharma@gmail.com)
-      </tr>
-      </tbody>
-</table>
