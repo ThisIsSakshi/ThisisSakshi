@@ -1,7 +1,7 @@
 
 <p align="center">
   <samp>
-    Hi there <img src="Hi.gif" width="25px">, thanks for stopping by, this is <b>Sakshi Sharma</b> <img alt="me" width="25px" src="pic.gif" /> back-end python developer from India.
+    Hi there <img src="Hi.gif" width="25px">, thanks for stopping by, this is <b>Sakshi Sharma</b> <img alt="me" width="30px" src="pic.gif" /> back-end python developer from India.
   </samp>
 </p>
 
