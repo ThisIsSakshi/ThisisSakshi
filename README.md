@@ -20,10 +20,3 @@
 [<img align="left" alt="Gmail" width="24px" src="gmail.svg" />](mailto:thisissakshisharma@gmail.com)
 
 </p>
-
-
-![A cute kitten](http://placekitten.com/200/300?style=centerme)
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
