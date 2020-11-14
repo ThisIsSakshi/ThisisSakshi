@@ -5,7 +5,7 @@
   </samp>
 </p>
 
-[<img align="center" alt="Pacman GIF" src="work.gif" height="200" width="300" margin="1000" />](https://github.com/ThisIsSakshi)
+[<img align="center" alt="Pacman GIF" src="work.gif" height="200" width="300" padding="1000" />](https://github.com/ThisIsSakshi)
 
 <br/>
 
