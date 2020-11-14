@@ -4,7 +4,7 @@
     Hi there <img src="Hi.gif" width="25px">, thanks for stopping by, this is <b>Sakshi Sharma</b> back-end python developer from India.
   </samp>
 </p>
-<p align="center">
+<div style="text-align:center">
 
 [<img alt="Pacman GIF" src="work.gif" height="200" width="300" />](https://github.com/ThisIsSakshi)
 
@@ -19,4 +19,4 @@
 [<img align="left" alt="Telegram" width="24px" src="telegram.svg" />](https://web.telegram.org/#/im?p=@ThisIsSakshi)
 [<img align="left" alt="Gmail" width="24px" src="gmail.svg" />](mailto:thisissakshisharma@gmail.com)
 
-</p>
+</div>
