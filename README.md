@@ -7,7 +7,7 @@
 
 [<img align="right" alt="Pacman GIF" src="work.gif" height="200" width="300" />](https://github.com/ThisIsSakshi)
 
-</br>
+<br/>
 ### Let's connect:
 [<img align="left" alt="Linkedin" width="24px" src="linkedin.svg" />](https://www.linkedin.com/in/i-am-sakshi-sharma/)
 [<img align="left" alt="Facebook" width="24px" src="fb.svg" />](https://www.facebook.com/This.is.Sakshi)
