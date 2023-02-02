@@ -1,6 +1,6 @@
 <center>
 
-<p align="center">
+<p align="left">
   <samp>
     Hi there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" title = "Sakshi says hi to you ☺️" width="25px">, thanks for stopping by, this is <b>Sakshi Sharma</b> a Software developer from India.
   </samp>
