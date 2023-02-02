@@ -1,9 +1,9 @@
 <center>
 
 <p align="left">
-  <samp>
-    Hi there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" title = "Sakshi says hi to you ☺️" width="35px">, thanks for stopping by, this is <b>Sakshi Sharma</b> a Software developer from India.
-  </samp>
+  <samp style="font-size: 18px;">
+    Hi there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" title = "Sakshi says hi to you ☺️" width="25px">, thanks for stopping by, this is <b>Sakshi Sharma</b> a Software developer from India.
+    </samp>
 </p>
   
 [<img align="center" alt="Work GIF" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif" width="200" />](https://github.com/ThisIsSakshi)| <img align="center" width="450pt" src="https://github-readme-stats.vercel.app/api?username=ThisIsSakshi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Sakshi's github stats" /> |
