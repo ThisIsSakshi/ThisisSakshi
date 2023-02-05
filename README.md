@@ -10,7 +10,7 @@
   <tr>
     <td>
     
-  [<img align="center" alt="Work GIF" title = "No That’s not me" src="https://cdn.discordapp.com/attachments/451548014788739093/852779863379148820/Stand-tsumi_2.0.gif" width="100" />](https://github.com/ThisIsSakshi)
+  [<img align="center" alt="Work GIF" title = "No That’s not me" src="https://cdn.discordapp.com/attachments/451548014788739093/852779863379148820/Stand-tsumi_2.0.gif" width="100" />](https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg)
     </td>
     <td>
     <a href="https://i.pinimg.com/736x/73/b3/ed/73b3ed283706b321bd84936c7e41f84f.jpg">
