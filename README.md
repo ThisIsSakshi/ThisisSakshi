@@ -22,7 +22,7 @@
   <tbody>
   <tr>
     <td>
-
+    
   <span align="center"><h4>Let's connect</h4>
   [<img align="center" alt="LinkedIn" title="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](https://www.linkedin.com/in/i-am-sakshi-sharma/)
   &nbsp;
@@ -36,8 +36,10 @@
   </span>
     </td>
     <td>
-
-<picture><source width="430" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsSakshi&layout=compact&hide_border=false&theme=buefy&border_color=e6aef5" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsSakshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab" /></picture>
+    <picture>
+      <source width="430" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsSakshi&layout=compact&hide_border=false&theme=buefy&border_color=e6aef5" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsSakshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab" />
+    </picture>
       </td>
     </tr>
     </tbody>
