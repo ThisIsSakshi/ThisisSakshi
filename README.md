@@ -13,16 +13,18 @@
   [<img align="center" alt="Work GIF" title = "No That’s not me" src="https://cdn.discordapp.com/attachments/451548014788739093/852779863379148820/Stand-tsumi_2.0.gif" width="100" />](https://github.com/ThisIsSakshi)
     </td>
     <td>
+    <a href="https://i.pinimg.com/736x/73/b3/ed/73b3ed283706b321bd84936c7e41f84f.jpg">
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=ThisIsSakshi&show_icons=true&hide_border=false&theme=buefy&border_color=e6aef5" width="430" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img src="https://github-readme-stats.vercel.app/api?username=ThisIsSakshi&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab"  width="430" />
       </picture> 
+    </a>
     </td>
   </tr>
   </thead>
   <tbody>
   <tr>
     <td>
-    
+
   <span align="center"><h4>Let's connect</h4>
   [<img align="center" alt="LinkedIn" title="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](https://www.linkedin.com/in/i-am-sakshi-sharma/)
   &nbsp;
@@ -36,6 +38,7 @@
   </span>
     </td>
     <td>
+    <a href="https://i.pinimg.com/474x/e2/1f/26/e21f26271474ed3862dae2d3b26e7c70.jpg">
     <picture>
       <source width="430" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsSakshi&layout=compact&hide_border=false&theme=buefy&border_color=e6aef5" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsSakshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab" />
