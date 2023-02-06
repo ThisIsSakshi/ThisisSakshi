@@ -1,8 +1,10 @@
-<p align="left">
+<a href="https://github.com/ThisIsSakshi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=998&color=25F7C0&center=true&width=435&lines=Hi+there+%F0%9F%91%8B!;thanks+for+stopping+by+%F0%9F%98%8A;this+is+Sakshi+Sharma+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;a+Software+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Hi there! this is Sakshi Sharma!" /></a>
+
+<!-- <p align="left">
   <samp style="font-size: 18px;" >
     Hi there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" title = "Sakshi says hi to you ☺️" width="25px">, thanks for stopping by, this is <b>Sakshi Sharma</b> a Software developer from India.
     </samp>
-</p>
+</p> -->
 
 
 <table>
