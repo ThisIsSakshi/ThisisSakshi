@@ -1,3 +1,10 @@
+<a href="https://github.com/ThisIsSakshi#gh-light-mode-only">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20It's%Sakshi%Sharma&fontAlign=40&fontAlignY=30&color=0:00F260,100:0575E6&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width="100%" />
+</a>
+<a href="https://github.com/ThisIsSakshi#gh-dark-mode-only" width="30">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20It's%20Sakshit%20Sharma&fontAlign=40&fontAlignY=30&color=0:43C6AC,100:191654&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile&strokeWidth=70!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width="100%" />
+</a>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dina&duration=3000&pause=950&color=D840C3&background=A1FFDD00&center=true&width=435&lines=Hi+there+%F0%9F%91%8B!;thanks+for+stopping+by+%F0%9F%98%8A;this+is+Sakshi+Sharma+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;a+Software+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3)](https://github.com/ThisIsSakshi/)
 
 <!-- <p align="left">
