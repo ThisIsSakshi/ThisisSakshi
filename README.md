@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=998&color=D840C3&background=A1FFDD00&center=true&width=435&lines=Hi+there+%F0%9F%91%8B!;thanks+for+stopping+by+%F0%9F%98%8A;this+is+Sakshi+Sharma+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;a+Software+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3)](https://github.com/ThisIsSakshi/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dina&duration=3000&pause=950&color=D840C3&background=A1FFDD00&center=true&width=435&lines=Hi+there+%F0%9F%91%8B!;thanks+for+stopping+by+%F0%9F%98%8A;this+is+Sakshi+Sharma+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;a+Software+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3)](https://github.com/ThisIsSakshi/)
 
 <!-- <p align="left">
   <samp style="font-size: 18px;" >
