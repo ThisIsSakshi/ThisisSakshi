@@ -23,7 +23,7 @@
     <td align="center" width="25%">
     <!-- girl gif r2c1-->
 
-  [<img align="center" alt="Girl Gif" title = "No That’s not me" src="https://cdn.discordapp.com/attachments/451548014788739093/852779863379148820/Stand-tsumi_2.0.gif" width="100" />](https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg)
+  [<img align="center" alt="Girl Gif" title = "No That’s not Sakshi" src="https://cdn.discordapp.com/attachments/451548014788739093/852779863379148820/Stand-tsumi_2.0.gif" width="100" />](https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg)
     </td>
     <td align="center">
     <!-- github stats r2c2 -->
