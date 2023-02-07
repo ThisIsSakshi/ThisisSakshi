@@ -9,7 +9,7 @@
 <table align="center">
 <thead>
 <tr>
-<td colspan="2" align="center">
+<td colspan="2" align="center" height="">
 <p align="center">
 <!-- Body description r1c12-->
   
@@ -20,10 +20,10 @@
 </thead>
   <tbody>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="30%">
     <!-- girl gif r2c1-->
 
-  [<img align="center" alt="Girl Gif" title = "No That’s not Sakshi" src="https://cdn.discordapp.com/attachments/451548014788739093/852779863379148820/Stand-tsumi_2.0.gif" width="100" />](https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg)
+  [<img align="center" alt="Girl Gif" title = "No That’s not Sakshi" src="https://cdn.discordapp.com/attachments/451548014788739093/852779863379148820/Stand-tsumi_2.0.gif" width="35%" />](https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg)
     </td>
     <td align="center">
     <!-- github stats r2c2 -->
@@ -39,8 +39,8 @@
   <tr>
     <td align="center">
     <!-- Connection request r3c1-->
+<p><b>Let's connect<b></p>
 
-  <span align="center"><h4>Let's connect</h4>
   <!-- linkedIn -->
   [<img align="center" alt="LinkedIn" title="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](https://www.linkedin.com/in/i-am-sakshi-sharma/)
   &nbsp;<!-- Facebook -->
@@ -52,7 +52,6 @@
   [<img align="center" alt="Telegram" title="Telegram" width="24px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />](https://web.telegram.org/#/im?p=@ThisIsSakshi)
   &nbsp;<!-- Gmail -->
   [<img align="center" alt="Gmail" title="Gmail" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" />](mailto:thisissakshisharma@gmail.com)
-  </span>
     </td>
     <td align="center">
     <!-- Most language used r3c2 -->
@@ -66,7 +65,7 @@
     </tbody>
     <tbody>
       <tr>
-        <td align="center">
+        <td align="center" width="50%">
         <!-- profile view count r3c1-->
         <a href="https://i.pinimg.com/originals/fd/c6/a1/fdc6a1865eb1789ee20577a3f48107eb.gif">
           <img src="https://count.getloli.com/get/@ThisIsSakshi?theme=rule34" alt="Profile view count" width="100%"/>
