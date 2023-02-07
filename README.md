@@ -15,12 +15,12 @@
 <table align="center">
   <thead>
   <tr>
-    <td>
+    <td align="center">
     <!-- girl gif r1c1-->
 
   [<img align="center" alt="Girl Gif" title = "No That’s not me" src="https://cdn.discordapp.com/attachments/451548014788739093/852779863379148820/Stand-tsumi_2.0.gif" width="100" />](https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg)
     </td>
-    <td>
+    <td align="center">
     <!-- github stats r1c2 -->
     <a href="https://i.pinimg.com/736x/73/b3/ed/73b3ed283706b321bd84936c7e41f84f.jpg">
       <picture>
@@ -32,7 +32,7 @@
   </thead>
   <tbody>
   <tr>
-    <td>
+    <td align="center">
     <!-- Connection request r2c1-->
 
   <span align="center"><h4>Let's connect</h4>
@@ -49,7 +49,7 @@
   [<img align="center" alt="Gmail" title="Gmail" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" />](mailto:thisissakshisharma@gmail.com)
   </span>
     </td>
-    <td>
+    <td align="center">
     <!-- Most language used r2c2 -->
     <a href="https://i.pinimg.com/474x/e2/1f/26/e21f26271474ed3862dae2d3b26e7c70.jpg">
     <picture>
@@ -61,11 +61,11 @@
     </tbody>
     <tbody>
       <tr>
-        <td>
+        <td align="center">
         <!-- profile view count -->
         [![:ThisisSakshi](https://count.getloli.com/get/@ThisIsSakshi?theme=rule34)](https://github.com/thisissakshi)
         </td>
-        <td>
+        <td align="center">
         <!-- My Contribution Graph -->
           <!-- light mode -->
           <a href="https://github.com/thisissakshi#gh-light-mode-only">
