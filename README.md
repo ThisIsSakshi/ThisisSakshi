@@ -6,19 +6,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Hey!%20It's%20Sakshi%20Sharma&fontAlign=40&fontAlignY=30&color=gradient&customColorList=1,2,9,6,7,10,16,18,20,22,24,25&animation=twinkling&fontSize=50&desc=Welcome%20to%20%my%20profile&!&descSize=15&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width="100%" />
 </a>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dina&size=30&duration=2000&pause=900&color=D840C3&width=900&center=True&lines=Hi+there+%F0%9F%91%8B!;Thanks+for+stopping+by+%F0%9F%98%8A;So+something+about+myself%3F+%F0%9F%A4%94;I'm+from+India+%F0%9F%87%AE%F0%9F%87%B3;I'm+good+with+tech+stuff+%F0%9F%A4%93;I+mean...+a+little+bit+good;mostly+confused+and+curious+%F0%9F%99%83;Love+to+know+about+you+too!+%E2%9D%A4%EF%B8%8F;Let's+connect!+%F0%9F%98%87%E2%9D%A4%EF%B8%8F;+)](https://github.com/ThisIsSakshi)
+
 <table align="center">
-<thead>
-<tr>
-<td colspan="2" align="center" height="">
-<p align="center">
-<!-- Body description r1c12-->
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dina&size=30&duration=2000&pause=900&color=D840C3&width=600&center=True&lines=Hi+there+%F0%9F%91%8B!;Thanks+for+stopping+by+%F0%9F%98%8A;So+something+about+myself%3F+%F0%9F%A4%94;I'm+from+India+%F0%9F%87%AE%F0%9F%87%B3;I'm+good+with+tech+stuff+%F0%9F%A4%93;I+mean...+a+little+bit+good;mostly+confused+and+curious+%F0%9F%99%83;Love+to+know+about+you+too!+%E2%9D%A4%EF%B8%8F;Let's+connect!+%F0%9F%98%87%E2%9D%A4%EF%B8%8F;+)](https://github.com/ThisIsSakshi)
-</p>
-</td>
-</tr>
-</thead>
-  <tbody>
+  <thead>
   <tr>
     <td align="center" width="30%">
     <!-- girl gif r2c1-->
@@ -34,7 +25,7 @@
     </a>
     </td>
   </tr>
-  </tbody>
+  </thead>
   <tbody>
   <tr>
     <td align="center">
