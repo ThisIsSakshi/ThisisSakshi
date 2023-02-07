@@ -57,3 +57,13 @@
     </tr>
     </tbody>
 </table>
+
+
+<!-- Footer -->
+
+<a href="https://github.com/ThisIsSakshi#gh-light-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=130&color=gradient&customColorList=1,3,6,7,10,12,14,18,20,22,24,25,30&animation=twinkling&fontSize=50#gh-light-mode-only" alt="Footer" width="100%" />
+</a>
+<a href="https://github.com/ThisIsSakshi#gh-dark-mode-only" width="30">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=130&color=gradient&customColorList=1,2,9,6,7,10,16,18,20,22,24,25&animation=twinkling&fontSize=50#gh-dark-mode-only" alt="Footer" width="100%" />
+</a>
