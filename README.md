@@ -12,15 +12,15 @@
   <thead>
   <tr>
     <td align="center" width="30%">
-    <!-- girl gif r2c1-->
+    <!-- girl gif r1c1-->
 
   [<img align="center" alt="Girl Gif" title = "No That’s not Sakshi" src="https://cdn.discordapp.com/attachments/451548014788739093/852779863379148820/Stand-tsumi_2.0.gif" width="35%" />](https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg)
     </td>
     <td align="center" colspan="3">
-    <!-- github stats r2c2 -->
+    <!-- github stats r1c2 -->
     <a href="https://i.pinimg.com/736x/73/b3/ed/73b3ed283706b321bd84936c7e41f84f.jpg">
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=ThisIsSakshi&show_icons=true&hide_border=false&theme=buefy&border_color=e6aef5" width="470" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img src="https://github-readme-stats.vercel.app/api?username=ThisIsSakshi&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab"  width="470" />
+        <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ThisIsSakshi&show_icons=true&hide_border=false&theme=buefy&border_color=e6aef5" width="470" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThisIsSakshi&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab"  width="470" />
       </picture> 
     </a>
     </td>
@@ -29,7 +29,7 @@
   <tbody>
   <tr>
     <td align="center" width="45%">
-    <!-- Connection request r3c1-->
+    <!-- Connection request r2c1-->
       
 <a href="https://github.com/ThisIsSakshi#gh-light-mode-only"> <img width="200" src="https://capsule-render.vercel.app/api?type=rounded&text=Let's%20Connect&fontSize=70&de&animation=fadeIn&color=gradient&customColorList=1,3,6,7,10,12,14,18,20,22,24,25,30#gh-light-mode-only" alt="Let's connect" /> </a>
 <a href="https://github.com/ThisIsSakshi#gh-dark-mode-only"> <img width="200" src="https://capsule-render.vercel.app/api?type=rounded&text=Let's%20Connect&fontSize=70&de&animation=fadeIn&color=gradient&customColorList=1,2,9,6,7,10,16,18,20,22,24,25&#gh-dark-mode-only" alt="let's connect" /> </a>
@@ -47,11 +47,11 @@
   [<img align="center" alt="Gmail" title="Gmail" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" />](mailto:thisissakshisharma@gmail.com)
     </td>
     <td align="center" colspan="3">
-    <!-- Most language used r3c2 -->
+    <!-- Most language used r2c2 -->
     <a href="https://i.pinimg.com/474x/e2/1f/26/e21f26271474ed3862dae2d3b26e7c70.jpg">
     <picture>
-      <source width="470" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsSakshi&layout=compact&hide_border=false&theme=buefy&border_color=e6aef5" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsSakshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab" />
+      <source width="470" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThisIsSakshi&layout=compact&hide_border=false&theme=buefy&border_color=e6aef5" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img width="470" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThisIsSakshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab" />
     </picture>
       </td>
     </tr>
