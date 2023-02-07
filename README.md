@@ -13,7 +13,7 @@
 <p align="center">
 <!-- Body description r1c12-->
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dina&duration=2000&pause=900&color=D840C3&width=435&center=True&lines=Hi+there+%F0%9F%91%8B!;Thanks+for+stopping+by+%F0%9F%98%8A;So+something+about+myself%3F+%F0%9F%A4%94;I'm+from+India+%F0%9F%87%AE%F0%9F%87%B3;I'm+good+with+tech+stuff+%F0%9F%A4%93;I+mean...+a+little+bit+good;mostly+confused+and+curious+%F0%9F%99%83;Love+to+know+about+you+too!+%E2%9D%A4%EF%B8%8F;Let's+connect!+%F0%9F%98%87%E2%9D%A4%EF%B8%8F;+)](https://github.com/ThisIsSakshi)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dina&size=30&duration=2000&pause=900&color=D840C3&width=600&center=True&lines=Hi+there+%F0%9F%91%8B!;Thanks+for+stopping+by+%F0%9F%98%8A;So+something+about+myself%3F+%F0%9F%A4%94;I'm+from+India+%F0%9F%87%AE%F0%9F%87%B3;I'm+good+with+tech+stuff+%F0%9F%A4%93;I+mean...+a+little+bit+good;mostly+confused+and+curious+%F0%9F%99%83;Love+to+know+about+you+too!+%E2%9D%A4%EF%B8%8F;Let's+connect!+%F0%9F%98%87%E2%9D%A4%EF%B8%8F;+)](https://github.com/ThisIsSakshi)
 </p>
 </td>
 </tr>
