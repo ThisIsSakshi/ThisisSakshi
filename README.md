@@ -15,7 +15,7 @@
 <table align="center">
   <thead>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
     <!-- girl gif r1c1-->
 
   [<img align="center" alt="Girl Gif" title = "No That’s not me" src="https://cdn.discordapp.com/attachments/451548014788739093/852779863379148820/Stand-tsumi_2.0.gif" width="100" />](https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg)
@@ -63,7 +63,10 @@
       <tr>
         <td align="center">
         <!-- profile view count -->
-        [![:ThisisSakshi](https://count.getloli.com/get/@ThisIsSakshi?theme=rule34)](https://github.com/thisissakshi)
+        <a href="https://github.com/thisissakshi">
+          <img src="https://count.getloli.com/get/@ThisIsSakshi?theme=rule34" alt="Profile view count" width="100%"/>
+        </a>
+        <!-- [![:ThisisSakshi](https://count.getloli.com/get/@ThisIsSakshi?theme=rule34)](https://github.com/thisissakshi) -->
         </td>
         <td align="center">
         <!-- My Contribution Graph -->
