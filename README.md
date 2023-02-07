@@ -81,7 +81,7 @@
           </a>
           <!-- dark mode -->
           <a href="https://github.com/thisissakshi#gh-dark-mode-only">
-          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ThisIsSakshi&theme=dracula&bg_color=2b1557&hide_border=true&area_color=351678&area=true&radius=16&point=9770e6&custom_title=My%20Contribution%20Graph%20%F0%9F%92%9C%&title_color=ede6fa#gh-dark-mode-only)](https://github.com/thisissakshi#gh-dark-mode-only" alt="Sakshi's github activity graph" width="430" />
+          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ThisIsSakshi&theme=dracula&bg_color=2b1557&hide_border=true&area_color=351678&area=true&radius=16&point=9770e6&custom_title=My%20Contribution%20Graph%20%F0%9F%92%9C&title_color=ede6fa#gh-dark-mode-only)](https://github.com/thisissakshi#gh-dark-mode-only" alt="Sakshi's github activity graph" width="430" />
           </a>  
         </td>
       </tr>
