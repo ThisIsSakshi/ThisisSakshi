@@ -1,11 +1,13 @@
-<a href="https://github.com/ThisIsSakshi#gh-light-mode-only" width="30">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20It's%Sakshi%Sharma&fontAlign=40&fontAlignY=30&color=0:00F260,100:0575E6&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width="70%" />
+<a href="https://github.com/ThisIsSakshi#gh-light-mode-only">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Hey!%20It's%Sakshi%Sharma&fontAlign=40&fontAlignY=30&&color=gradient&customColorList=1,3,6,7,10,12,14,18,20,22,24,25,30&animation=twinkling&fontSize=50&desc=Welcome%20to%20%my%20profile!&descSize=15&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width="100%" />
 </a>
 <a href="https://github.com/ThisIsSakshi#gh-dark-mode-only" width="30">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20It's%20Sakshit%20Sharma&fontAlign=40&fontAlignY=30&color=0:43C6AC,100:191654&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile&strokeWidth=70!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Hey!%20It's%20Sakshit%20Sharma&fontAlign=40&fontAlignY=30&color=gradient&customColorList=1,2,9,6,7,10,16,18,20,22,24,25&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile&!&descSize=15&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width="100%" />
 </a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Dina&duration=2000&pause=900&color=D840C3&width=435&lines=Hi+there+%F0%9F%91%8B!;Thanks+for+stopping+by+%F0%9F%98%8A;So+something+about+myself%3F+%F0%9F%A4%94;I'm+from+India+%F0%9F%87%AE%F0%9F%87%B3;I'm+good+with+tech+stuff+%F0%9F%A4%93;I+mean...+a+little+bit+good;mostly+confused+and+curious+%F0%9F%99%83;Love+to+know+about+you+too!+%E2%9D%A4%EF%B8%8F;Lets+connect!+%F0%9F%98%87%E2%9D%A4%EF%B8%8F;+)
+<!-- Body description -->
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Dina&duration=2000&pause=900&color=D840C3&width=435&center=True&lines=Hi+there+%F0%9F%91%8B!;Thanks+for+stopping+by+%F0%9F%98%8A;So+something+about+myself%3F+%F0%9F%A4%94;I'm+from+India+%F0%9F%87%AE%F0%9F%87%B3;I'm+good+with+tech+stuff+%F0%9F%A4%93;I+mean...+a+little+bit+good;mostly+confused+and+curious+%F0%9F%99%83;Love+to+know+about+you+too!+%E2%9D%A4%EF%B8%8F;Lets+connect!+%F0%9F%98%87%E2%9D%A4%EF%B8%8F;+)
 <!-- <p align="left">
   <samp style="font-size: 18px;" >
     Hi there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" title = "Sakshi says hi to you ☺️" width="25px">, thanks for stopping by, this is <b>Sakshi Sharma</b> a Software developer from India.
