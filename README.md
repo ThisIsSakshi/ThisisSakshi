@@ -11,10 +11,13 @@
 <table align="center">
   <thead>
   <tr>
-    <td align="center" width="30%">
-    <!-- girl gif r1c1-->
+    <td align="center" width="30%" >
+    <!-- gif r1c1-->
 
-[<img align="center" alt="Girl Gif" title = "No That’s not Sakshi" src="https://cdn.discordapp.com/attachments/451548014788739093/852779863379148820/Stand-tsumi_2.0.gif" width="35%" />](https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg)
+<!-- [<img align="center" alt="Just some gif" title = "Hello nice to meet you!" src="https://steamuserimages-a.akamaihd.net/ugc/1756935222378256294/D6123FED25C001354A25F691828CF4FD79612D78/?imw=83&imh=88&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="35%" />](https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg) -->
+
+<a href="https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg#gh-light-mode-only"><img src="https://steamuserimages-a.akamaihd.net/ugc/1756935222378256294/D6123FED25C001354A25F691828CF4FD79612D78/?imw=83&imh=88&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true#gh-light-mode-only" alt="Just some gif" title="Hello nice to meet you!" width="55%" /></a>
+<a href="https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg#gh-dark-mode-only"><img src="https://steamuserimages-a.akamaihd.net/ugc/1675862637188263363/226FBD31E1E54E2FCE5CFDD51645E1F407BC3E37/?imw=128&imh=128&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true#gh-dark-mode-only" alt="Just some gif" title="Hello nice to meet you!" width="55%" /></a>
 
 </td>
 <td align="center" colspan="3">
