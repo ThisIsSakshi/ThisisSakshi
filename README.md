@@ -37,8 +37,8 @@
   <tr>
     <td align="center" width="45%">
     <!-- Connection request r2c1-->
-      <a href="https://github.com/ThisIsSakshi#gh-light-mode-only"> <img width="200" src="https://capsule-render.vercel.app/api?type=rounded&text=Let's%20Connect&fontSize=70&de&animation=fadeIn&color=gradient&customColorList=1,3,6,7,10,12,14,18,20,22,24,25,30#gh-light-mode-only" alt="Let's connect" /> </a>
-      <a href="https://github.com/ThisIsSakshi#gh-dark-mode-only"> <img width="200" src="https://capsule-render.vercel.app/api?type=rounded&text=Let's%20Connect&fontSize=70&de&animation=fadeIn&color=gradient&customColorList=1,2,9,6,7,10,16,18,20,22,24,25&#gh-dark-mode-only" alt="let's connect" /> </a>
+      <a href="https://github.com/ThisIsSakshi#gh-light-mode-only"> <img width="200" src="https://capsule-render.vercel.app/api?type=rounded&text=Let's%20Connect&fontSize=70&de&animation=fadeIn&color=gradient&customColorList=1,3,4,14,15,18,20,24,25,26,27,28#gh-light-mode-only" alt="Let's connect" /> </a>
+      <a href="https://github.com/ThisIsSakshi#gh-dark-mode-only"> <img width="200" src="https://capsule-render.vercel.app/api?type=rounded&text=Let's%20Connect&fontSize=70&de&animation=fadeIn&color=gradient&customColorList=2,9,16,19,20,21,22,23,24,25&#gh-dark-mode-only" alt="let's connect" /> </a>
       
   <!-- linkedIn -->
   [<img align="center" alt="LinkedIn" title="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](https://www.linkedin.com/in/its-sakshi/)
