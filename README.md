@@ -73,7 +73,7 @@
         <!-- [![:ThisisSakshi](https://count.getloli.com/get/@ThisIsSakshi?theme=rule34)](https://github.com/thisissakshi) -->
         </td>
         <td align="center" colspan="3">
-        <!-- My Contribution Graph r3c2-->
+        <!-- My Contribution Graph r3c2 -->
           <!-- light mode -->
           <a href="https://github.com/thisissakshi#gh-light-mode-only" >
             <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ThisIsSakshi&theme=dracula&bg_color=d0bff2&area_color=351678&area=true&radius=16&point=9770e6&custom_title=My%20Contribution%20Graph%20%F0%9F%92%9C&title_color=ede6fa#gh-light-mode-only" alt="Sakshi's github activity graph" width="470" />
