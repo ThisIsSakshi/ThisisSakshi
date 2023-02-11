@@ -1,4 +1,4 @@
-name: Update Image Readme Dark
+name: Update Image Readme Light
 
 on:
   workflow_dispatch:
@@ -17,4 +17,4 @@ jobs:
           IMG_PATH: ThisisSakshi/.github/images/light_mode
           ALIGN: center
           WIDTH: 45%
-          COMMIT_MESSAGE: Updated Dark mode gif
+          COMMIT_MESSAGE: Updated Light mode gif
