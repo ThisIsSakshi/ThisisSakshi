@@ -14,8 +14,8 @@
     <td align="center" width="30%" >
     <!-- gif r1c1-->
 
-<a href="https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg#gh-light-mode-only"><img src=".github/images/light_mode/white_cat_1.gif#gh-light-mode-only" alt="Just some gif" title="Hello nice to meet you!" width="45%" /></a>
-<a href="https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg#gh-dark-mode-only"><img src=".github/images/dark_mode_1/black_cat.gif#gh-dark-mode-only" alt="Just some gif" title="Hello nice to meet you!" width="45%" /></a>
+<a href="https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg#gh-light-mode-only"><img src=".github/images/light_mode/white_cat_1.gif#gh-light-mode-only" alt="d" title="Hello nice to meet you!" width="45%" /></a>
+<a href="https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg#gh-dark-mode-only"><img src=".github/images/dark_mode/black_1.gif#gh-dark-mode-only" alt="Just some gif" title="Hello nice to meet you!" width="45%" /></a>
 
 </td>
 <td align="center" colspan="3">
