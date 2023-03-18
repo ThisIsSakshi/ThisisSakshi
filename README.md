@@ -73,7 +73,7 @@
         <td align="center" >
         <!-- profile view count r3c1-->
         <a href="https://i.pinimg.com/originals/fd/c6/a1/fdc6a1865eb1789ee20577a3f48107eb.gif">
-          <img src="https://count.getloli.com/get/@ThisIsSakshi?theme=rule34" alt="Profile view count" width="100%"/>
+          <img src="https://count.chiya.dev/get/@ThisIsSakshi?theme=rule34" alt="Profile view count" width="100%"/>
         </a>
         </td>
         <td align="center" colspan="3">
