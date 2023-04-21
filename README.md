@@ -27,6 +27,8 @@
 </a>
 <a href="https://i.pinimg.com/736x/73/b3/ed/73b3ed283706b321bd84936c7e41f84f.jpg#gh-dark-mode-only">
 <picture>
+<!--START_SECTION:update_image-->
+<!--END_SECTION:update_image-->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThisIsSakshi&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab#gh-dark-mode-only"  width="470" />
 </picture>
 </a>
