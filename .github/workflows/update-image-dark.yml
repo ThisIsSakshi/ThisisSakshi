@@ -11,7 +11,7 @@ jobs:
     name: Update Image README
     runs-on: ubuntu-latest
     steps:
-      - uses: siddharth2016/update-readme-image@main
+      - uses: thisissakshi/update-readme-image@main
         with:
           IMG_ALT: Just some gif
           IMG_PATH: .github/images/dark_mode
