@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 5:30 UTC everyday
-    - cron: "30 5 * * *"
+    - cron: "30 0 * * *"
 
 jobs:
   update-readme:
@@ -14,7 +14,7 @@ jobs:
       - uses: siddharth2016/update-readme-image@main
         with:
           IMG_ALT: Just some gif
-          IMG_PATH: ThisisSakshi/.github/images/light_mode
+          IMG_PATH: .github/images/light_mode
           ALIGN: center
           WIDTH: 45%
-          COMMIT_MESSAGE: Updated Light mode gif
+          COMMIT_MESSAGE: Updated Dark mode gif light
