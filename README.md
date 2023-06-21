@@ -13,10 +13,10 @@
   <tr>
     <td align="center" width="30%" >
     <!-- gif r1c1-->
-
+<!--START_SECTION:update_image-->
 <a href="https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg#gh-light-mode-only"><img src=".github/images/light_mode/white_cat_1.gif#gh-light-mode-only" alt="Just some gif" title="Hello nice to meet you!" width="51%" /></a>
 <a href="https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg#gh-dark-mode-only"><img src=".github/images/dark_mode/black_1.gif#gh-dark-mode-only" alt="Just some gif" title="Hello nice to meet you!" width="51%" /></a>
-
+<!--END_SECTION:update_image-->
 </td>
 <td align="center" colspan="3">
 <!-- github stats r1c2 -->
@@ -27,9 +27,8 @@
 </a>
 <a href="https://i.pinimg.com/736x/73/b3/ed/73b3ed283706b321bd84936c7e41f84f.jpg#gh-dark-mode-only">
 <picture>
-<!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/dark_mode/black_2.gif height=180px width=45% align=center alt=Just some gif />
-<!--END_SECTION:update_image-->
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThisIsSakshi&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab#gh-dark-mode-only"  width="470" />
 </picture>
 </a>
