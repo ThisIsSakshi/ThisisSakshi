@@ -8,10 +8,10 @@ on:
 
 jobs:
   update-readme:
-    name: Update Image README
+    name: Update Readme Image Dark
     runs-on: ubuntu-latest
     steps:
-      - uses: thisissakshi/update-readme-image@main
+      - uses: thisissakshi/update-readme-image@dark
         with:
           IMG_ALT: Just some gif
           IMG_PATH: .github/images/dark_mode
