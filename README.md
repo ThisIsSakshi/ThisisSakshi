@@ -13,12 +13,12 @@
   <tr>
     <td align="center" width="30%" >
     <!-- gif r1c1-->
-<a href="https://github.com/thisissakshi#gh-light-mode-only">
+<a href="https://github.com/thisissakshi#gh-light-mode-only" align=center>
 <!--START_SECTION:update_image_light-->
 <img src=https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/dark_mode/black_6.gif height=46% width=46% align=center alt=Just some gif />
 <!--END_SECTION:update_image_light-->
 </a>
-<a href="https://github.com/thisissakshi#gh-dark-mode-only">
+<a href="https://github.com/thisissakshi#gh-dark-mode-only" align=center>
 <!--START_SECTION:update_image_dark-->
 <img src=https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/dark_mode/black_9.gif height=180px width=45% align=center alt=Just some gif />
 <!--END_SECTION:update_image_dark-->
