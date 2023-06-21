@@ -16,5 +16,5 @@ jobs:
           IMG_ALT: Just some gif
           IMG_PATH: .github/images/dark_mode
           ALIGN: center
-          WIDTH: 45%
+          HEIGHT: 180px
           COMMIT_MESSAGE: Updated Dark mode gif
