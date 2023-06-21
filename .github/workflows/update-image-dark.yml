@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: siddharth2016/update-readme-image@main
         with:
-          IMG_PATH: "ThisisSakshi/.github/images/dark_mode"
+          IMG_PATH: "ThisisSakshi/ThisisSakshi/.github/images/dark_mode"
           IMG_ALT: Just some gif
           ALIGN: center
           WIDTH: 45%
