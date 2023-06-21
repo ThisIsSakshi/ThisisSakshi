@@ -11,7 +11,7 @@ jobs:
     name: Update Readme Image Light
     runs-on: ubuntu-latest
     steps:
-      - uses: thisissakshi/update-readme-image@main
+      - uses: thisissakshi/update-readme-image@light
         with:
           IMG_ALT: Just some gif
           IMG_PATH: .github/images/light_mode
