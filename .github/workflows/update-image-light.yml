@@ -16,5 +16,5 @@ jobs:
           IMG_ALT: Just some gif
           IMG_PATH: .github/images/light_mode
           ALIGN: center
-          WIDTH: 45%
+          WIDTH: 180px
           COMMIT_MESSAGE: Updated light mode gif
