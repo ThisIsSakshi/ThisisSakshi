@@ -17,4 +17,4 @@ jobs:
           IMG_PATH: .github/images/light_mode
           ALIGN: center
           WIDTH: 45%
-          COMMIT_MESSAGE: Updated Dark mode gif light
+          COMMIT_MESSAGE: Updated light mode gif
