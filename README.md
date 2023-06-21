@@ -14,7 +14,7 @@
     <td align="center" width="30%" >
     <!-- gif r1c1-->
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/dark_mode/black_6.gif height=180px width=45% align=center alt=Just some gif />
+<img src=https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/light_mode/white_8.gif height=180px width=45% align=center alt=Just some gif />
 <!--END_SECTION:update_image-->
 </td>
 <td align="center" colspan="3">
