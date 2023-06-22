@@ -15,7 +15,7 @@
     <!-- gif r1c1-->
 <a href="https://github.com/thisissakshi#gh-light-mode-only" align=center>
 <!--START_SECTION:update_image_light-->
-<img src=https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/light_mode/w7.gif height=46% width=46% align=center alt=Just some gif />
+<img src=https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/light_mode/w11.gif height= width=51% align=center alt=Just some gif />
 <!--END_SECTION:update_image_light-->
 </a>
 <a href="https://github.com/thisissakshi#gh-dark-mode-only" align=center>
