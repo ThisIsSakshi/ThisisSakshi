@@ -20,7 +20,7 @@
 </a>
 <a href="https://github.com/thisissakshi#gh-dark-mode-only" align=center>
 <!--START_SECTION:update_image_dark-->
-<img src=https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/dark_mode/black_11.gif height=46% width=46% align=center alt=Just some gif />
+<img src=https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/dark_mode/black_4.gif height=46% width=46% align=center alt=Just some gif />
 <!--END_SECTION:update_image_dark-->
 </a>
 </td>
