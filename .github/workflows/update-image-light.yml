@@ -3,8 +3,8 @@ name: Update Image Readme Light
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 5:30 UTC everyday
-    - cron: "32 18 * * *"
+    # Runs every 12 hours past 2 minutes
+    - cron: "2 */12 * * *"
 
 jobs:
   update-readme:
