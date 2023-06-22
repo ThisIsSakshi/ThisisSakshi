@@ -3,7 +3,7 @@ name: Update Image Readme Dark
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 12 hours
+    # Runs every 6 hours
     - cron: "0 */6 * * *"
 
 jobs:
