@@ -20,7 +20,7 @@
 </a>
 <a href="https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg#gh-dark-mode-only" align=center>
 <!--START_SECTION:update_image_dark-->
-<img src="https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/dark_mode/b3.gif#gh-dark-mode-only" title="Hello! 😇💙" height=55% width=55% align=center alt=Just some gif />
+<img src="https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/dark_mode/black_7.gif#gh-dark-mode-only" title="Hello! 😇💙" height=55% width=55% align=center alt=Just some gif />
 <!--END_SECTION:update_image_dark-->
 </a>
 </td>
