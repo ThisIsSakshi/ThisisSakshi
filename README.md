@@ -52,8 +52,8 @@
   &nbsp;<!-- Facebook -->
   [<img align="center"  alt="Facebook" title="Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/3670/3670124.png" />](https://www.facebook.com/This.is.Sakshi)
   &nbsp;<!-- Instagram -->
-  [<img align="center" alt="Instagram" title="Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" />](https://www.instagram.com/emotional_geek/)<!-- Skype -->
-  <br><br>[<img align="center" alt="Skype" title="Skype" width="24px" src="https://cdn-icons-png.flaticon.com/512/3670/3670246.png" />](https://join.skype.com/invite/a2uM8XJDIMeB)
+  [<img align="center" alt="Instagram" title="Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" />](https://www.instagram.com/emotional_geek/)<!-- Pinterest -->
+  <br><br>[<img align="center" alt="Skype" title="Skype" width="24px" src="https://cdn-icons-png.flaticon.com/512/1377/1377257.png" />](https://in.pinterest.com/I_am_sakshi/)
   &nbsp;<!-- Telegram -->
   [<img align="center" alt="Telegram" title="Telegram" width="24px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />](https://web.telegram.org/#/im?p=@ThisIsSakshi)
   &nbsp;<!-- Gmail -->
