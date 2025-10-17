@@ -57,7 +57,7 @@
   &nbsp;<!-- Telegram -->
   [<img align="center" alt="Telegram" title="Telegram" width="24px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />](https://web.telegram.org/#/im?p=@ThisIsSakshi)
   &nbsp;<!-- Gmail -->
-  [<img align="center" alt="Gmail" title="Gmail" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" />](mailto:thisissakshisharma@gmail.com)
+  [<img align="center" alt="Gmail" title="Gmail" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" />](mailto:this.is.sakshi.sharma@gmail.com)
     </td>
     <td align="center" colspan="3">
     <!-- Most language used r2c2 -->
