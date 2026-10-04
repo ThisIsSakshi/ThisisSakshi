@@ -28,12 +28,12 @@
 <!-- github stats r1c2 -->
 <a href="https://i.pinimg.com/736x/73/b3/ed/73b3ed283706b321bd84936c7e41f84f.jpg#gh-light-mode-only">
 <picture>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThisIsSakshi&show_icons=true&hide_border=false&theme=buefy&border_color=e6aef5#gh-light-mode-only" width="470"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ThisIsSakshi&include_all_commits=true&show_icons=true&hide_border=false&theme=buefy&border_color=e6aef5#gh-light-mode-only" width="470"/>
 </picture>
 </a>
 <a href="https://i.pinimg.com/736x/73/b3/ed/73b3ed283706b321bd84936c7e41f84f.jpg#gh-dark-mode-only">
 <picture>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThisIsSakshi&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab#gh-dark-mode-only"  width="470" />
+<img src="https://github-stats-extended.vercel.app/api?username=ThisIsSakshi&include_all_commits=true&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab#gh-dark-mode-only"  width="470" />
 </picture>
 </a>
 
@@ -63,12 +63,12 @@
     <!-- Most language used r2c2 -->
     <a href="https://i.pinimg.com/474x/e2/1f/26/e21f26271474ed3862dae2d3b26e7c70.jpg#gh-dark-mode-only">
     <picture>
-      <img width="470" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThisIsSakshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab#gh-dark-mode-only" />
+      <img width="470" src="https://github-stats-extended.vercel.app/api/top-langs?username=ThisIsSakshi&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab#gh-dark-mode-only" />
     </picture>
     </a>
     <a href="https://i.pinimg.com/474x/e2/1f/26/e21f26271474ed3862dae2d3b26e7c70.jpg#gh-light-mode-only">
     <picture>
-      <img width="470" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThisIsSakshi&layout=compact&hide_border=false&theme=buefy&border_color=e6aef5#gh-light-mode-only"/>
+      <img width="470" src="https://github-stats-extended.vercel.app/api/top-langs?username=ThisIsSakshi&layout=compact&langs_count=5&hide_border=false&theme=buefy&border_color=e6aef5#gh-light-mode-only"/>
     </picture>
     </a>
       </td>
